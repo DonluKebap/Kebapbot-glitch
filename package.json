@@ -1,0 +1,18 @@
+{
+  "name": "kebapbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "Kebapbot.js",
+  "scripts": {
+    "test": "node Kebapbot.js"
+  },
+  "author": "DonluKebap",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.2.1",
+    "module": "^1.2.5",
+    "moment": "^2.19.3",
+    "weather-js": "^2.0.0"
+  }
+}
